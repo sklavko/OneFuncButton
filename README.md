@@ -1,5 +1,5 @@
 # OneFuncButton
-A simple Arduino button library modelled as a state machine
+A simple Arduino button library modelled as a state machine.
 
 ##Button states
 
